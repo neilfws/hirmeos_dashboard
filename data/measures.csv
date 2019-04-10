@@ -1,0 +1,19 @@
+Measure,Source,Type,Version
+metrics.operas-eu.org/google-books/views/v1,Google Books,Views,v1
+metrics.operas-eu.org/obp-html/sessions/v1,Open Book Publishers HTML Reader,Sessions,v1
+metrics.operas-eu.org/obp-pdf/sessions/v1,Open Book Publishers PDF Reader,Sessions,v1
+metrics.operas-eu.org/obp/downloads/v1,Open Book Publishers,Downloads,v1
+metrics.operas-eu.org/world-reader/users/v1,World Reader,Users,v1
+metrics.operas-eu.org/world-reader/pageviews/v1,World Reader,Page Views,v1
+metrics.operas-eu.org/open-edition/views/v1,Open Edition,Views,v1
+metrics.operas-eu.org/open-edition/downloads/v1,Open Edition,Downloads,v1
+metrics.operas-eu.org/oapen/downloads/v1,OAPEN,Downloads,v1
+metrics.operas-eu.org/jstor/views/v1,JSTOR,Views,v1
+metrics.operas-eu.org/jstor/downloads/v1,JSTOR,Downloads,v1
+metrics.operas-eu.org/classics-library/sessions/v1,The Classics Library,Sessions,v1
+metrics.operas-eu.org/unglueit/downloads/v1,Unglue.it,Downloads,v1
+metrics.operas-eu.org/openaire/downloads/v1,OpenAIRE,Downloads,v1
+metrics.operas-eu.org/irusuk/downloads/v1,IRUS-UK,Downloads,v1
+metrics.operas-eu.org/wikimedia/views/v1,Wikimedia,Views,v1
+metrics.operas-eu.org/sub-gottingen/downloads/v1,SUB Göttingen,Downloads,v1
+metrics.operas-eu.org/ekt/downloads/v1,EKT,Downloads,v1
